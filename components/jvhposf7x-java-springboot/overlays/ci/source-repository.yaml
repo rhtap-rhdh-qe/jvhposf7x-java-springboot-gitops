@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jvhposf7x-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jvhposf7x-java-springboot
